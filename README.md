@@ -15,17 +15,14 @@ Using bacterial data collected from volunteers, the goal is to complete a dashbo
 
 ## Website
 Interactive Webpage can be found here: 
-
+https://leblabac.github.io/plotly-biodiversity/
 
 ## Graphs created with Plotly
 1. Horizontal Bar graph
-
-
+<img width="326" alt="bar_image" src="https://user-images.githubusercontent.com/87709841/146617050-35d394b6-78a7-49e6-90b7-c90e072f2d40.PNG">
 
 2. Bubble plot 
-
-
+<img width="714" alt="bubble" src="https://user-images.githubusercontent.com/87709841/146617061-2bd1d2fd-56db-47a2-b957-c194b4fa8437.PNG">
 
 3. Gauge chart
-
-
+<img width="378" alt="gauge" src="https://user-images.githubusercontent.com/87709841/146617089-e67b2837-7922-4f6c-937e-5a4e936d4e48.PNG">
